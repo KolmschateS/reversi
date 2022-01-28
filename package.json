@@ -1,0 +1,28 @@
+{
+  "name": "reversi",
+  "version": "1.0.0",
+  "description": "reversi assignment windesheim sebastiaan kolmschate",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KolmschateS/reversi.git"
+  },
+  "author": "sebastiaan kolmschate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KolmschateS/reversi/issues"
+  },
+  "homepage": "https://github.com/KolmschateS/reversi#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "gulp": "^4.0.2",
+    "gulp-order": "^1.2.0"
+  },
+  "dependencies": {
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1"
+  }
+}
